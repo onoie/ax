@@ -2,6 +2,6 @@
 
 #include <stdio.h>
 
-void hello(void) {
-    printf("Hello,Ax!\n");
+void ax(void) {
+    printf("Hello,AxLibrary!\n");
 }
