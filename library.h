@@ -1,5 +1,5 @@
-#ifndef SB_LIBRARY_H
-#define SB_LIBRARY_H
+#ifndef AX_LIBRARY_H
+#define AX_LIBRARY_H
 
 void hello(void);
 
