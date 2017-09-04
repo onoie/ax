@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-gcc -shared -fPIC -o libgreet.so greet.c
+gcc -shared -fPIC -o libax.so ax.c
 
