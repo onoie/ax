@@ -1,0 +1,9 @@
+// ax.cpp : DLL アプリケーション用にエクスポートされる関数を定義します。
+//
+
+#include "stdafx.h"
+
+
+void Echo(char* msg){
+	printf(msg);
+}
